@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg](https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000)" height="30" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
 
 
