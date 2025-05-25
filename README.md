@@ -11,6 +11,11 @@
 <h><b>My Techs:</b></h>
 <br>
 <div align="left">
+
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="33" alt="Git logo"/>
+  <img width="12" />
+          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="python logo"  />
   <img width="12" />
   
